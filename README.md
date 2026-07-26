@@ -36,6 +36,7 @@
 
 ## 🌐 Connect With Me
 
--  <a href="https://t.me/Ayeensch85">LinkedIn</a>
--  <a href="[https://www.linkedin.com/in/ayeen-sadeghi-1bb718390](https://github.com/Ayeensadeghi)">Telegram</a>
+-  <a href="www.linkedin.com/in/ayeen-sadeghi-394583425">LinkedIn</a>
+-  <a href="https://t.me/Ayeensch85">Telegram</a>
+-  <a href="mailto:ayeensadeghi1385@gmail.com">email</a>
 
