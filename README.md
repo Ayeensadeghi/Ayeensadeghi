@@ -37,5 +37,5 @@
 ## 🌐 Connect With Me
 
 -  <a href="https://t.me/Ayeensch85">LinkedIn</a>
--  <a href="https://www.linkedin.com/in/ayeen-sadeghi-1bb718390">Telegram</a>
+-  <a href="[https://www.linkedin.com/in/ayeen-sadeghi-1bb718390](https://github.com/Ayeensadeghi)">Telegram</a>
 
