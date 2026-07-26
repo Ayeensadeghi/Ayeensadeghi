@@ -38,5 +38,4 @@
 
 -  <a href="https://www.linkedin.com/in/ayeen-sadeghi-394583425/">LinkedIn</a>
 -  <a href="https://t.me/Ayeensch85">Telegram</a>
--  <a href="mailto:https://ayeensadeghi1385@gmail.com">email</a>
-- 📧 **Email:** [ayeensadeghi1385@gmail.com](mailto:ayeensadeghi1385@gmail.com)
+
