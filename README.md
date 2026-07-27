@@ -1,3 +1,6 @@
+<p>
+  <img src="./Template 11"/>
+</p>
 <h1 align="center">Hi👋,I'm Ayeen</h1>
 <h3 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student</h3>
 
@@ -30,23 +33,38 @@
 - Build SaaS Products
 - Learn React & Typescript
 - Improve UI Animation
-- Learning UX Researcher 
+- Learning UX Researcher
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Responsive Landing Page v1
+- ✅ Todo App *(Coming Soon)*
+- ☁ Weather App *(Coming Soon)*
+- 🎬 Movie App *(Coming Soon)*
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/ayeensch85/">
+  <a href="https://www.linkedin.com/in/ayeensch85/" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
-  <a href="https://t.me/Ayeensch85">
+  <a href="https://t.me/Ayeensch85" >
     <img src="https://api.iconify.design/logos/telegram.svg" height="42" width="42"/>
   </a>
-  <a href="mailto:ayeensadeghi1385@gmail.com">
+  <a href="mailto:ayeensadeghi1385@gmail.com" >
     <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
 </p>
--  <a href="https://www.linkedin.com/in/ayeensch85/">LinkedIn</a>
--  <a href="https://t.me/Ayeensch85">Telegram</a>
+
+---
+
+<h3 align="center">
+  
+> Turning ideas into clean & modern experiences. 
+
+</h3>
 
