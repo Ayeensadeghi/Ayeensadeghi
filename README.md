@@ -36,6 +36,6 @@
 
 ## 🌐 Connect With Me
 
--  <a href="https://www.linkedin.com/in/ayeen-sadeghi-394583425/">LinkedIn</a>
+-  <a href="https://www.linkedin.com/in/ayeensch85/">LinkedIn</a>
 -  <a href="https://t.me/Ayeensch85">Telegram</a>
 
