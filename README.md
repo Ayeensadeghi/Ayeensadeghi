@@ -1,12 +1,9 @@
-<p>
-  <img src="./assest/Template 11"/>
-</p>
-<h1 align="center">Hi👋,I'm Ayeen</h1>
-<h3 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student</h3>
-
+<img src="./assest/Template 11" width="100%">
 <p align="center">
-  Passionate about building beautiful, fast and user-centered web experiences.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=34&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+,+I'm+Ayeen" />
 </p>
+<h2 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student </h2>
+<h3 align="center">Passionate about building beautiful, fast and user-centered web experiences.</h3>
 
 ---
 
@@ -48,27 +45,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ayeensch85/" >
-<img src="https://cdn.simpleicons.org/linkedin" height="42" />
-</a>
-
-<a href="https://t.me/Ayeensch85" target="_blank">
-<img src="https://cdn.simpleicons.org/telegram" height="42" />
-</a>
-
-<a href="mailto:ayeensadeghi1385@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="42" />
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/ayeensch85/" > 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" /> 
+  </a>
+  <a href="https://t.me/Ayeensch85" > 
+    <img src="https://api.iconify.design/logos/telegram.svg" height="42" width="42"/> 
+  </a> 
+  <a href="mailto:ayeensadeghi1385@gmail.com" > 
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" /> 
+  </a> 
 </p>
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=600&color=6e7681&center=true&vCenter=true&width=800&lines=Turning+ideas+into+clean+and+modern+experiences." />
+</p>
 
-<h3 align="center">
-  
-> Turning ideas into clean & modern experiences. 
-
-</h3>
 
