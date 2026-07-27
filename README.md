@@ -1,5 +1,5 @@
 <p>
-  <img src="./Template 11"/>
+  <img src="./assest/Template 11"/>
 </p>
 <h1 align="center">Hi👋,I'm Ayeen</h1>
 <h3 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student</h3>
@@ -48,16 +48,20 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/ayeensch85/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
-  <a href="https://t.me/Ayeensch85" >
-    <img src="https://api.iconify.design/logos/telegram.svg" height="42" width="42"/>
-  </a>
-  <a href="mailto:ayeensadeghi1385@gmail.com" >
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayeensch85/" >
+<img src="https://cdn.simpleicons.org/linkedin" height="42" />
+</a>
+
+<a href="https://t.me/Ayeensch85" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram" height="42" />
+</a>
+
+<a href="mailto:ayeensadeghi1385@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="42" />
+</a>
+
 </p>
 
 ---
