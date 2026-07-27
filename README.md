@@ -1,8 +1,8 @@
-<img src="./assest/Template 11" width="100%">
-<p align="center">
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=34&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+,+I'm+Ayeen" />
-</p>
-<h2 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student </h2>
+</h1>
+<img src="./assest/banner.png" width="100%">
+<h3 align="center">Frontend Developer • UI/UX Designer • Computer Engineering Student </h3>
 <h3 align="center">Passionate about building beautiful, fast and user-centered web experiences.</h3>
 
 ---
@@ -35,11 +35,22 @@
 ---
 
 ## 🚀 Featured Projects
+<ul>
+  <li>
+    🌐
+    <a href="https://ayeensadeghi.github.io/responsive-landing-page-v1/">
+      Responsive Landing Page v1
+    </a>
+    •
+    <a href="https://github.com/Ayeensadeghi/responsive-landing-page-v1">
+      Source Code
+    </a>
+  </li>
 
-- 🌐 Responsive Landing Page v1
-- ✅ Todo App *(Coming Soon)*
-- ☁ Weather App *(Coming Soon)*
-- 🎬 Movie App *(Coming Soon)*
+  <li>🌦️ Weather App <i>(Coming Soon)</i></li>
+  <li>🎬 Movie App <i>(Coming Soon)</i></li>
+  <li>✅ Todo App <i>(Coming Soon)</i></li>
+</ul>
 
 ---
 
@@ -48,14 +59,11 @@
 <p>
   <a href="https://www.linkedin.com/in/ayeensch85/" > 
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" /> 
-  </a>
+  <br>
   <a href="https://t.me/Ayeensch85" > 
     <img src="https://api.iconify.design/logos/telegram.svg" height="42" width="42"/> 
   </a> 
-  <a href="mailto:ayeensadeghi1385@gmail.com" > 
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" /> 
-  </a> 
-</p>
+  <br>
 
 ---
 <p align="center">
